@@ -7,5 +7,5 @@ Repository containing all of my Coursera Assignments.
 ### Single Page Web Applications with Angular JS
 
 | Assignment | Link |
-|---------|-------------|-------------|
-| Week 1 | [Week 1 Assignment](Single%20Page%20Web%20Applications%20with%20Angular%20JS/Angular-%20Week 1) |
+|---------|-------------|
+| Week 1 | [Week 1 Assignment](Single-Page-Web-Applications-with-Angular-JS/Angular--Week1) |
